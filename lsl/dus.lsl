@@ -13,7 +13,7 @@
 //    You should have received a copy of the GNU General Public License
 //    along with DUS.  If not, see <http://www.gnu.org/licenses/>.
 
-//    DUS is Dynamic UUID Server for Secondlife
+//    DUS is Dynamic UUID Server System for Prims
 //    W. Hager founder and project leader
 
 string  Url= "http://serverurl/dus.php";	  //url of DUS server
